@@ -1,11 +1,18 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "KFCNEC27GU.com.razeware.UniveralLinksTutorial",
-				"paths": [ "*"]
-			}
-		]
-	}
+"activitycontinuation": {
+"apps": [
+"4A42LBB7CY.au.com.imageryWorks.AlleviEight"
+]
+},
+"applinks": {
+"apps": [],
+"details": [
+{
+"appID": "4A42LBB7CY.au.com.imageryWorks.AlleviEight",
+"paths": [
+"*"
+]
+}
+]
+}
 }

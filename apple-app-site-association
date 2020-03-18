@@ -1,18 +1,16 @@
 {
-"activitycontinuation": {
-"apps": [
-"4A42LBB7CY.au.com.imageryWorks.AlleviEight"
-]
-},
-"applinks": {
-"apps": [],
-"details": [
-{
-"appID": "4A42LBB7CY.au.com.imageryWorks.AlleviEight",
-"paths": [
-"*"
-]
-}
-]
-}
+  "activitycontinuation": {
+    "apps": [
+      "4A42LBB7CY.au.com.imageryWorks.AlleviEight"
+    ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "4A42LBB7CY.au.com.imageryWorks.AlleviEight",
+        "paths": ["*"]
+      }
+    ]
+  }
 }
